@@ -1,10 +1,11 @@
 index.jss
 function anviFunFact()
 {
-    const participants = [
+    const participants = 
+    [
         {
         name: "Anvi",
-        funFact: "I love my dogs"
+        funFact: "I love walking my dogs"
         }
     ]
 }
